@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6fa26bc4-6bef-44b8-825d-e144fd203c61" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/face" afterPath="$PROJECT_DIR$/face" />
+<<<<<<< HEAD
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> Changed face
     </list>
     <ignored path="Octocat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +67,13 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.12669684">
               <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+=======
+            <state vertical-scroll-proportion="0.19004525">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+>>>>>>> Changed face
               <folding />
             </state>
           </provider>
@@ -260,8 +269,13 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.12669684">
           <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+=======
+        <state vertical-scroll-proportion="0.19004525">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+>>>>>>> Changed face
           <folding />
         </state>
       </provider>
