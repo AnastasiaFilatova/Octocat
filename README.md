@@ -20,7 +20,7 @@ It's composed by: head, face, 2 ears, neck, 4 legs, arm and felt details.
 * Black and garnet thread to sew.
 * White and garnet felt.
 * 4 black plastic wires for the whiskers.
-* Stuffing (that of the pillow or cotton)
+* ~~Stuffing (that of the pillow or cotton)~~
 
 ## Abbreviations:
 
